@@ -3,12 +3,6 @@ package task2;
 public class View {
 	
 	
-
-
-	
-	
-	
-	
 	public static final String WRONG_RANGE_DATA = "Out of range! ";
     public static final String WRONG_INPUT_DATA = "Wrong input! Repeat please! ";
 	public static final String INPUT_INT_DATA = "Guess an integer figure in a range of: ";
